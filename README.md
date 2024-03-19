@@ -1,16 +1,27 @@
-# m3m_tennis_booking
+# Tennis court booking app
 
-A new Flutter project.
+This Flutter application allows users to book slots for playing tennis at various tennis courts. The app integrates Firebase services for authentication, notifications, and data synchronization. Additionally, it utilizes the Syncfusion Flutter Calendar for managing and displaying tennis court availability.
 
-## Getting Started
+## Features
+User Authentication: Users can create accounts and log in securely using Firebase Authentication.
 
-This project is a starting point for a Flutter application.
+Tennis Court Booking: Users can view available slots at different tennis courts and book slots for their preferred date and time.
 
-A few resources to get you started if this is your first Flutter project:
+Notifications: Users receive notifications for booking confirmation, reminders for upcoming bookings, and other relevant updates.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Syncfusion Flutter Calendar: The app uses the Syncfusion Flutter Calendar to display available slots and manage bookings efficiently.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User Profiles: Users can manage their profile information and view their booking history.
+
+## How to use the app
+
+git clone https://github.com/tikeshsahu/tennis_booking.git
+
+cd Weather-App
+
+flutter pub get
+
+flutter run
+
+
+
