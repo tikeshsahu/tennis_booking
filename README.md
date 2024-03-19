@@ -16,8 +16,11 @@ User Profiles: Users can manage their profile information and view their booking
 ## How to use the app
 
 git clone https://github.com/tikeshsahu/tennis_booking.git
+
 cd Weather-App
+
 flutter pub get
+
 flutter run
 
 
