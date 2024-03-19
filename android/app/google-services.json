@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834107934306",
+    "project_id": "m3m-tennis",
+    "storage_bucket": "m3m-tennis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834107934306:android:907173d3047115279cf33b",
+        "android_client_info": {
+          "package_name": "com.example.m3m_tennis_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXOIiDBuu7IdAc3M8C98auUTGTCc2sYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
